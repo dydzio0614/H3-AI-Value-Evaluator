@@ -11,4 +11,4 @@ Built with Visual Studio 2017, machine learning implemented with preview version
 
 H3 AI Value Evaluator is licensed under General Public License version 2.
 
-Copyright (C) 2019 Dydzio
+Copyright (C) 2019-2020 Dydzio
